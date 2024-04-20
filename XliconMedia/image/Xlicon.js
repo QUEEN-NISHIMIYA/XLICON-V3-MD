@@ -1,3 +1,3 @@
 {
-	"name": "Xlicon Bot Multi Device "
+	"name": "Izumie Bot Multi Device "
 }
