@@ -50,7 +50,7 @@ global.location = process.env.GL_INFO || "india, kerala, malappuram" //ur locati
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'RIZUMI' //ur bot name
+global.botname = process.env.BOT_NAME || 'IZUMIE✨' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '918593848438' //ur owner number
 //________________________________________________________________________________________________________
@@ -58,7 +58,7 @@ global.ownername = process.env.SUDO_NAME || 'Izumie kun' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@IZUMIE_"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/LcY3uzJyimr7nopSVALIOK"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/BMteXcNZwX0IEOd0MeSaHO"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -66,9 +66,9 @@ global.wm = process.env.GL_WM || "© 𝙸𝚉𝚞𝙼𝚒𝚎"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/QUEEN-NISHIMIYA/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "💗𝚪𝚰𝚭𝐔𝚳𝚰𝚵-𝚩𝚯𝚻💗"
+global.packname = process.env.PACK_NAME || "💗𝚰𝚭𝐔𝚳𝚰𝚵💗"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝚰𝚭𝐔𝚳𝚰𝚵-𝐒𝚵𝚪"
+global.author = process.env.AUTHER_NAME || "918593848438"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "918593848438@s.whatsapp.net"
 //________________________________________________________________________________________________________
@@ -91,7 +91,7 @@ global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign nu
 //________________________________________________________________________________________________________
 global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
-global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
+global.anticall = process.env.GL_NOCALL || true //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
@@ -104,7 +104,7 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update message
 //msg
 global.mess = {
 	limit: '_*Your limit is up!*_',
-	nsfw: '_*Nsfw is disabled in this group, Please tell the admin or izumie to enable*_',
+	nsfw: '_*Nsfw is disabled in this group, Please ask the admins or izumie to enable*_',
     done: '_*Done ✓*_',
     error: '_*I am having error to execute this*_',
     success: '_*Here you go!*_'
