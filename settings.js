@@ -81,9 +81,9 @@ global.hituet = 0
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v8' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
-global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
+global.typereply = process.env.REPLY_TYPE || 'v3' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
 global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
 //________________________________________________________________________________________________________
