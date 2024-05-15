@@ -91,7 +91,7 @@ global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign nu
 //________________________________________________________________________________________________________
 global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
-global.anticall = process.env.GL_NOCALL || true //bot blocks user when called
+global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
