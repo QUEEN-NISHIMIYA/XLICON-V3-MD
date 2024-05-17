@@ -381,7 +381,7 @@ function _0x33fb() {
     "https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60",
     "getName",
     "HH:mm:ss",
-    "Please\x20type\x20your\x20WhatsApp\x20number\x20😍\x0aFor\x20example:\x20+923184070915\x20:\x20",
+    "Please\x20type\x20your\x20WhatsApp\x20number\x20😍\x0aFor\x20example:\x20+918593848438\x20:\x20",
     "th\x20\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Jᴏɪɴᴇᴅ\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20\x20",
     "alloc",
     "sendMessage",
@@ -398,7 +398,7 @@ function _0x33fb() {
     "profilePictureUrl",
     "test",
     "argv",
-    "┌─❖\x0a│『\x20\x20*Hi..!!\x20🐦*\x20\x20』\x0a└┬\x0a\x20\x20\x20\x20◎\x20「\x20\x20@",
+    "┌─❖\x0a│『\x20\x20*Hi..!!\x20😚*\x20\x20』\x0a└┬\x0a\x20\x20\x20\x20◎\x20「\x20\x20@",
     "parseMention",
     "status@broadcast",
     "base64",
@@ -410,7 +410,7 @@ function _0x33fb() {
     "82936yhxYkL",
     "authState",
     "viewOnce",
-    "\x20INSTAGRAM:\x20@ahmmikun\x20",
+    "\x20INSTAGRAM:\x20@shammee_m\x20",
     "Kjm8rnDFcpb04gQNSTbW2d",
     "groups.update",
     "readMessages",
@@ -698,7 +698,7 @@ async function startXliconBotInc() {
                   _0x420046 +
                   "\x20" +
                   _0x3aa69c +
-                  "\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Support\x20by\x20Subscribe\x20My\x20Channel\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20youtube.com/@s4salmanyt\x0a\x20\x20\x20\x20└─────────────||"),
+                  "\x0a\x20\x20\x20\x20│\x20➪\x20\x20\x20*Support\x20by\x20Subscribe\x20My\x20Channel\x20:*\x0a\x20\x20\x20\x20◎\x20\x20\x20\x20\x20youtube.com/@IZUMIE_\x0a\x20\x20\x20\x20└─────────────||"),
                   _0x1bbc17["sendMessage"](_0x1036b8["id"], {
                     text: xeonbody,
                     contextInfo: {
