@@ -43,18 +43,18 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: IZUMIE_ " //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "insta: rizu_mie " //ur github or insta name
+global.socialm = process.env.MEDIA || "insta: izumie_xenpai" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "india, kerala, malappuram" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'IZUMIE✨' //ur bot name
+global.botname = process.env.BOT_NAME || 'Queen Elisa' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '918593848438' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Izumie kun' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'ɪɀꪊᴍιꫀ ᥊ꫀꪀρꪖι' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@IZUMIE_"
 //________________________________________________________________________________________________________
@@ -62,13 +62,13 @@ global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/BMteXcNZwX0IEOd0
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© 𝙸𝚉𝚞𝙼𝚒𝚎"
+global.wm = process.env.GL_WM || "© ɪɀꪊᴍιꫀ ᥊ꫀꪀρꪖι💋"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/QUEEN-NISHIMIYA/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "💗𝚰𝚭𝐔𝚳𝚰𝚵💗"
+global.packname = process.env.PACK_NAME || "ɪɀꪊᴍιꫀ"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "918593848438"
+global.author = process.env.AUTHER_NAME || "᥊ꫀꪀρꪖι💋"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "918593848438@s.whatsapp.net"
 //________________________________________________________________________________________________________
