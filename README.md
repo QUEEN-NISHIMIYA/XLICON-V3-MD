@@ -15,7 +15,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://te.legra.ph/file/338af91fb065f0dbd4ef3.jpg)](https://youtube.com/@IZUMIE_)
+[![XLICON](https://te.legra.ph/file/aabe0c489be65e1fc3df3.mp4)](https://youtube.com/@IZUMIE_)
 
 <p align="center">
 <a href="https://github.com/QUEEN-NISHIMIYA"><img title="Author" src="https://img.shields.io/badge/CREATOR-IZUMIE SER-black.svg?style=for-the-badge&logo=github"></a>
