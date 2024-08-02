@@ -1,6 +1,6 @@
 {
     "name": "IZUMIE-MD",
-    "version": "3.0",
+    "version": "3.0.0",
     "description": "Whatsapp Bot By izumie",
     "main": "index.js",
     "type": "commonjs",
