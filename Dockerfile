@@ -14,7 +14,7 @@ RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
-EXPOSE 3000
+EXPOSE 8000
 
 # Command to start the application
 CMD ["npm", "start"]
